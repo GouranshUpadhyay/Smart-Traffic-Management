@@ -198,18 +198,14 @@ YOLO traffic model auto-downloads:
 
 yolov8n.pt
 
+### 🕳️ Pothole Detection Model (Custom YOLO Model)
 
+Download `best.pt` from Google Drive:
+👉https://drive.google.com/file/d/1oJ7wlCKCJS0x6g72m2v4VjkyHSCfaqMx/view?usp=sharing
 
-Pothole model:
+After downloading, place the file in the project root:
 
-best.pt (Google Drive link will be provided)
-
-
-
-Place best.pt in project folder:
-
-Smart\_Traffic\_System/best.pt
-
+Smart_Traffic_System/best.pt
 
 
 ---
