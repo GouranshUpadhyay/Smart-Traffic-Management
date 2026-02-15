@@ -1,0 +1,21 @@
+# models
+*.pt
+models/
+
+# videos
+videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# python
+__pycache__/
+*.pyc
+
+# system
+.DS_Store
+Thumbs.db
+
+# env
+.env
